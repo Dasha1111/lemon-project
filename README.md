@@ -1,3 +1,3 @@
 # lemon-project
-Website for restaurant
+Website Lemon
 
